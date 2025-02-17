@@ -26,7 +26,7 @@ Choosing the right architecture is crucial for scaling data operations and analy
 
 ### 📖 **Module 4: Real-Time Data & Scalable Pipelines**  
 Handling data at scale, in real time, is a game-changer for modern businesses.  
-- **Session 8**: Batch vs. Streaming—understanding Apache Kafka, Flink, Spark, and real-time architectures.  
+- **Session 8**: Batch vs. Streaming vs. Event—understanding Apache Kafka, Flink, Spark, and real-time architectures.  
 - **Session 9**: Cloud-native architectures—AWS, GCP, Azure, Infrastructure as Code (IaC), and cost optimization strategies.  
 
 ### 📖 **Module 5: Machine Learning & AI for Business**  
