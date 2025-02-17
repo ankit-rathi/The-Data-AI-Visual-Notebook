@@ -89,14 +89,15 @@
 ## **📖 MODULE 4: Real-Time Data & Scalable Pipelines**  
 > How to process and analyze data at scale  
 
-### **Session 8: Data Pipelines – Batch vs. Streaming**  
+### **Session 8: Data Pipelines – Batch vs. Streaming vs. Event**  
 **References:**  
 - *Streaming Systems* – Akidau et al.  
 
 **Key Topics:**  
 - **Batch Processing:** When and why to use it  
 - **Real-time Processing:** Apache Kafka, Flink, Spark Streaming  
-- **Architectures:** Lambda vs. Kappa  
+- **Architectures:** Lambda vs. Kappa
+- **Event Processing:** When and why to use it  
 
 ### **Session 9: Cloud-Native Data Architectures**  
 **References:**  
