@@ -1,4 +1,4 @@
-# Session 0: Introduction to The Data Ecosystem Masterclass
+# Session 0: Introduction to The Data and AI Ecosystem
 
 ## Welcome to the Masterclass!  
 
