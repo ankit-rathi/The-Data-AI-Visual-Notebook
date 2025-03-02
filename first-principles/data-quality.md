@@ -1,6 +1,10 @@
 ### What is Data Quality? Explained from First Principles
 
-Forget buzzwords. Data quality is just about making sure your data is actually useful. Not broken, not messy, not misleading—just useful.
+Forget buzzwords. 
+
+Data quality is just about making sure your data is actually useful. 
+
+Not broken, not messy, not misleading—just useful.
 
 Breaking It Down to First Principles
 
