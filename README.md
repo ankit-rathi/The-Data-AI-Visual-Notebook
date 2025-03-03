@@ -82,7 +82,45 @@
 
 ---
 
-## 5. Monetizing Your Data & AI Skills
+## 5. Recommended Learning Resources
+
+### Books to Read
+- **The Data Warehouse Toolkit** – Ralph Kimball
+- **Designing Data-Intensive Applications** – Martin Kleppmann
+- **Deep Learning** – Ian Goodfellow
+- **Data Science for Business** – Foster Provost & Tom Fawcett
+- **Machine Learning Engineering** – Andriy Burkov
+- **The Hundred-Page Machine Learning Book** – Andriy Burkov
+
+### Blogs & Newsletters to Follow
+- **Netflix Tech Blog**
+- **Databricks Blog**
+- **AWS Big Data Blog**
+- **Google AI Blog**
+- **Towards Data Science (Medium)**
+- **KDnuggets**
+- **Data Science Central**
+
+### LinkedIn & YouTube Influencers
+- **Andrew Ng** (Deep Learning & AI)
+- **Cassie Kozyrkov** (Decision Intelligence, AI Leadership)
+- **Kirk Borne** (Data Science, Big Data)
+- **Lex Fridman** (AI & Machine Learning)
+- **Josh Starmer (StatQuest)** (Statistics & ML)
+- **3Blue1Brown** (Math & Data Concepts)
+- **Data Engineering Latam** (Data Engineering Tutorials)
+
+### Must-Listen Podcasts
+- **Data Skeptic**
+- **AI Alignment Podcast**
+- **Data Engineering Podcast**
+- **Lex Fridman Podcast**
+- **Not So Standard Deviations**
+- **The AI Alignment Podcast**
+
+---
+
+## 6. Monetizing Your Data & AI Skills
 
 ### Job Growth & Career Acceleration
 - Pathways: Data Engineer, ML Engineer, AI Researcher, Analytics Lead
