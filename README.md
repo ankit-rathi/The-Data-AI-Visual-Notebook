@@ -3,13 +3,11 @@
 
 ---
 
-## A. About the Author  
-- Your journey in Data & AI  
-- Why this book?  
+## A. About the Author [[Link](https://github.com/ankit-rathi/The-Data-AI-Career-Playbook/blob/main/A.%20About%20the%20Author.md)]
 
 ---
 
-## B. Preface  
+## B. Preface  [[Link](https://github.com/ankit-rathi/The-Data-AI-Career-Playbook/blob/main/B.%20Preface.md)]
 - Who is this book for?  
 - How to use this book effectively  
 
