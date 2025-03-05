@@ -30,6 +30,13 @@ The book is structured in four phases, similar to how a rocket launch works:
 
 Whether you’re just starting out or transitioning from another field, this book will help you navigate your way with **clarity and confidence**.
 
+To get the most out of this book, follow the structured approach, apply what you learn, and take action at each step. Use the recommended resources, work on real-world projects, and engage with the data and AI community. By the end of this book, you will have a clear roadmap tailored to your career goals.
+
+## Who is this book for?
+
+This book is for anyone who wants to build a career in data and AI. Whether you are a student exploring career options, a working professional looking to transition into data roles, or someone already in the field wanting to refine your path, this book will help you. It provides a clear roadmap for roles like data analyst, data engineer, data scientist, data architect, analytics engineer, data and AI leader, and more. If you have ever wondered how to break into the field, which skills to learn, or how to stay relevant, this book is for you.
+
+
 ## What’s Next?
 
 If you’ve ever felt lost about how to start your data and AI journey, this book is for you.   
