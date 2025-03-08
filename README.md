@@ -1,5 +1,5 @@
-# The Data & AI Career Playbook  
-**Build Your Own Roadmap**  
+# The Data & AI Visual Natebook  
+
 
 ---
 
