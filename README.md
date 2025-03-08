@@ -1,4 +1,4 @@
-# The Data & AI Visual Natebook  
+# The Data & AI Visual Notebook  
 
 
 ---
